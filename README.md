@@ -6,7 +6,7 @@ To get started with the project, you will need to have Hitachi Pentaho Spoon 9.3
 
 Open Hitachi Pentaho Spoon and create a new transformation.
 
-Use the "CSV file input" step to read in the NBA data from the provided dataset.
+Use sqldeveloper to load the script or in Spoon the "script file input" step to read in the NBA data from the provided dataset.
 
 Use a series of "Select values" steps to transform and clean the data as needed.
 
